@@ -20,7 +20,7 @@ public class Developer {
         // You may use just the name that is used on <https://bit.ly/cs156-s26-teams>
         // i.e. your first name, or your first and initial of last name
 
-        return "Chris G.";
+        return "David Chang";
     }
 
     /**
@@ -30,7 +30,7 @@ public class Developer {
 
     public static String getGithubId() {
         // TODO: Change this to your github id
-        return "cgaucho";
+        return "dcbang747";
     }
 
     /**
